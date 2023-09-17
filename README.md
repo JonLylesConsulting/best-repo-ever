@@ -3,4 +3,6 @@
 
 Random modificatioin
 
-ths is supposed to be a merge conflict
+<<<<<<< HEAD
+this is a change to the same line in the file
+
